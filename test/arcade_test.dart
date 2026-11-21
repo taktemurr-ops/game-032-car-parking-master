@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:game_032_car_parking_master/core/arcade.dart';
-import 'package:game_032_car_parking_master/core/level_plan.dart';
+import 'package:studio_core/core/arcade.dart';
+import 'package:studio_core/core/level_plan.dart';
 import 'package:game_032_car_parking_master/game/park_engine.dart';
 import 'package:game_032_car_parking_master/game/rules.dart';
 
