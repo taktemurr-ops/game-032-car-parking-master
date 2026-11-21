@@ -3,10 +3,10 @@ import 'dart:ui' show PointMode;
 
 import 'package:flutter/material.dart';
 
-import '../app/arcade_stage.dart';
-import '../app/play_kit.dart';
-import '../app/services/audio.dart';
-import '../core/arcade.dart';
+import 'package:studio_core/app/arcade_stage.dart';
+import 'package:studio_core/app/play_kit.dart';
+import 'package:studio_core/app/services/audio.dart';
+import 'package:studio_core/core/arcade.dart';
 import 'hill_engine.dart';
 import 'park_engine.dart';
 import 'road_engine.dart';

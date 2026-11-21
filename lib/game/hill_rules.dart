@@ -1,7 +1,7 @@
-import '../core/arcade.dart';
-import '../core/level_plan.dart';
-import '../core/missions.dart';
-import '../core/stats.dart';
+import 'package:studio_core/core/arcade.dart';
+import 'package:studio_core/core/level_plan.dart';
+import 'package:studio_core/core/missions.dart';
+import 'package:studio_core/core/stats.dart';
 import 'hill_engine.dart';
 
 /// Rules shared by every side-view driving game; each game passes its own
